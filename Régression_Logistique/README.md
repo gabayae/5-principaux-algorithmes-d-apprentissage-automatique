@@ -1,16 +1,10 @@
-## <a href="http://imsp-benin.com/" ><img src="http://imsp-benin.com/home/images/logoimsp.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques et Sciences Physiques*](http://imsp-benin.com/home/page.php?index=directeur&parent=presentation), [`Science des Données`](http://imsp-benin.com/home/page.php?index=deamathematique&parent=formation) 
-
-
-<body><right><a href="https://fr.wikipedia.org/wiki/R%C3%A9gression_lin%C3%A9aire" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Regression_lineaire_ordonnees.svg/220px-Regression_lineaire_ordonnees.svg.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/></a></right></body>
 
 
 
-La régression linéaire est l’un des algorithmes d’apprentissage supervisé les plus populaires. Il est aussi simple et parmi les mieux compris en statistique et en apprentissage automatique.
+### <body><right><a href="https://fr.wikipedia.org/wiki/R%C3%A9gression_logistique" ><img src="https://mrmint.fr/wp-content/uploads/2017/09/Sigmoid-function.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/></a></right></body>
 
-La régression linéaire est un type d’analyse prédictive de base. Le concept général de la régression est d’étudier deux questions:
 
-  - un ensemble de variables prédictives permet-il de prédire une variable de résultat ?
-  
-  - quelles sont les variables les plus significatives et ont le plus d’impact sur la variable de résultat ?
-  
-On utilise ces estimations de régression pour expliquer les relations entre une variable dépendante et une ou plusieurs variables indépendantes. La forme la plus simple de l’équation de régression avec une variable dépendante et une variable indépendante est définie par la formule y = c + b * x, avec y = variable dépendante estimé, c = constante, b = coefficient de régression et x = variable indépendante. On parle ici de Régression linéaire simple. Pour la [regression linéaire multiple](https://github.com/gabayae/5-principaux-algorithmes-d-apprentissage-supervisE/tree/main/R%C3%A9gression_Lin%C3%A9aire_Multiple) on écrira y = c + b * x1 +…+ n*xn avec x1 jusqu’à xn les variables indépendantes et b jusqu’à n les coefficient de regression respectifs des variables.
+
+Les prédictions de régression linéaire sont des valeurs continues (températures en degrés), les prévisions de régression logistique sont des valeurs discrètes, c’est-à-dire un ensemble fini de valeurs (Vrai ou faux par exemple). La régression logistique convient mieux à la classification binaire. Par exemple, on peut considérer un ensemble de données où y = 0 ou 1, où 1 représente la classe par défaut. Pour illustrer on peut imaginer que l’on veuille prédire si il pleuvra ou non. On aura 1 pour si il pleut et 0 le cas contraire.
+
+Au contraire de la régression linéaire, la régression logistique, propose le résultat sous forme de probabilités de la classe par défaut. Le résultat appartient donc à l’intervalle [0 :1]. C’est-à-dire qu’il est compris entre 0 et 1, vu qu’il s’agit d’une probabilité. La valeur y de sortie est générée par la transformation de la valeur x, à l’aide de la fonction logistique h (x) = 1 / (1 + e ^ -x). Un seuil est ensuite appliqué pour forcer cette probabilité dans une classification binaire.
