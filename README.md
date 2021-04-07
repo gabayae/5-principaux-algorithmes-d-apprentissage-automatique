@@ -9,7 +9,7 @@ Dans cet dépôt, nous allons exposer 5 principaux algorithmes d’apprentissage
 
 2 – [Régression logistique](https://github.com/gabayae/5-principaux-algorithmes-d-apprentissage-supervisE/tree/main/R%C3%A9gression_Logistique).
 
-3 – Arbres de classification et de régression.
+3 – Arbre de décision: [arbres de classification]() et [arbres de régression]().
 
 4 – K-nearest neighbours ou K-NN (les K voisins les plus proches).
 
