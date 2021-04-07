@@ -6,7 +6,11 @@
 # Cinq (05) principaux algorithmes d'apprentissage supervisé.
 
 1 – Régression linéaire
+
 2 – Régression logistique
+
 3 – Arbres de classification et de régression
-4 – K-nearest neighbours ou K-NN (les K voisins les plus proches))
-5 - Classificateur naïf de Bayes
+
+4 – K-nearest neighbours ou K-NN (les K voisins les plus proches)
+
+5 – Classificateur naïf de Bayes
