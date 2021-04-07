@@ -1,6 +1,6 @@
 # <a href="http://imsp-benin.com/" ><img src="http://imsp-benin.com/home/images/logoimsp.png" style="float:left; max-width: 80px; display: inline" alt="INSA"/> |  [*Mathématiques et Sciences Physiques*](http://imsp-benin.com/home/page.php?index=directeur&parent=presentation), [`Science des Données`](http://imsp-benin.com/home/page.php?index=deamathematique&parent=formation) 
 
-Dans cet dépô, nous allons exposer 5 principaux algorithmes d’apprentissage supervisé.
+Dans cet dépôt, nous allons exposer 5 principaux algorithmes d’apprentissage supervisé. La documentation est tirée de [cette page](https://analyticsinsights.io/5-apprentissage-supervise/). Notre contribution ici est que nous produisons les codes sourse en utilisant le langage de programmation Python 3.X .
 
 
 # Cinq (05) principaux algorithmes d'apprentissage supervisé.
