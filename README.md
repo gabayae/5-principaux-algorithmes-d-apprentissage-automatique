@@ -11,6 +11,6 @@ Dans cet dépôt, nous allons exposer 5 principaux algorithmes d’apprentissage
 
 3 – Arbre de décision: [arbres de classification]() et [arbres de régression]().
 
-4 – K-nearest neighbours ou K-NN (les K voisins les plus proches).
+4 – [Les K les plus proches voisins](https://fr.wikipedia.org/wiki/M%C3%A9thode_des_k_plus_proches_voisins).
 
-5 – Classificateur naïf de Bayes.
+5 – [Classificateur naïf de Bayes](https://fr.wikipedia.org/wiki/Classification_na%C3%AFve_bay%C3%A9sienne).
